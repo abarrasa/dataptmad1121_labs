@@ -1,3 +1,4 @@
+
 CREATE TABLE Cars
 (
     ID INT NOT NULL
