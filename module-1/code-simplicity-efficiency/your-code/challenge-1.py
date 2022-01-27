@@ -167,3 +167,21 @@ if (not a == 'zero' and not a == 'one' and not a == 'two' and not a == 'three' a
     print("I am not able to answer this question. Check your input.")
 
 print("Thanks for using this calculator, goodbye :)")
+
+
+zero = 0 
+one = 1
+two = 2
+three = 3
+four =4
+five = 5
+
+a = input("Enter the first number: ")
+b= input ("elige entre sumar y restar")
+c = input ("elige el segundo numero")
+
+
+for i in range(6):
+    if a >= 0 and b = "sumar":
+    print ("a" + "b")
+        
